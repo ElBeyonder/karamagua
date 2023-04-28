@@ -145,23 +145,28 @@
     ============================================= -->
     <div class="services-style-one-area default-padding bg-gray half-bg-theme">
         <div class="shape-extra">
-            <img src="assets/img/shape/18.png" alt="Image Not Found">
+            <img src="<?php echo $link_general; ?>lib/agrul/assets/img/shape/18.png" alt="Image Not Found">
         </div>
         <div class="container">
             <div class="heading-left">
                 <div class="row">
                     <div class="col-lg-5">
                         <div class="left-info">
-                            <h5 class="sub-title">What we do</h5>
-                            <h2 class="title">Currently we are <br> selling organic food</h2>
+                            <h5 class="sub-title">Nuestra labor</h5>
+                            <h2 class="title">Nos dedicamos a fomentar la agricultura ecológica y la sostenibilidad de las tierras</h2>
                         </div>
                     </div>
                     <div class="col-lg-6 offset-lg-1">
                         <div class="right-info">
                             <p>
-                                Everything melancholy uncommonly but solicitude inhabiting projection off. Connection stimulated estimating excellence an to impression. ladies she basket season age her uneasy saw. Discourse unwilling am no described.
+                                En Karamagua, nos dedicamos a transformar la agricultura para lograr un éxito sostenible.
+                                Nos enfocamos en el desarrollo y mantenimiento de tierras para la producción de alimentos orgánicos de alta calidad,
+                                sin comprometer el medio ambiente y la biodiversidad. Buscamos contribuir al cuidado y preservación del planeta,
+                                fomentando la convivencia armoniosa entre los seres humanos, las diversas especies y la naturaleza en general.
+                                Creemos firmemente en un futuro en el que la agricultura
+                                sea una fuente de beneficios mutuos para la humanidad y el planeta.
                             </p>
-                            <a class="btn btn-theme btn-md radius animation" href="#">Discover More</a>
+                            <a class="btn btn-theme btn-md radius animation" href="#">Descubre mas</a>
                         </div>
                     </div>
                 </div>
@@ -177,25 +182,12 @@
                             <div class="swiper-slide">
                                 <div class="services-style-one">
                                     <div class="thumb">
-                                        <img src="assets/img/thumb/1.png" alt="Image Not Found">
+                                        <img src="<?php echo $link_general; ?>lib/agrul/assets/img/thumb/1.png" alt="Fresh Vegetables">
                                     </div>
-                                    <h5><a href="#">Fresh Vegetables</a></h5>
+                                    <h5><a href="#">Productos Agrícolas Orgánicos</a></h5>
                                     <p>
-                                        Continue indulged speaking technical out horrible domestic position. Seeing rather you.
-                                    </p>
-
-                                </div>
-                            </div>
-                            <!-- End Single Item -->
-                            <!-- Single Item -->
-                            <div class="swiper-slide">
-                                <div class="services-style-one">
-                                    <div class="thumb">
-                                        <img src="assets/img/thumb/2.png" alt="Image Not Found">
-                                    </div>
-                                    <h5><a href="#">Agricultural Products</a></h5>
-                                    <p>
-                                        Continue indulged speaking technical out horrible domestic position. Seeing rather you.
+                                        Cuidamos el medio ambiente y promovemos la agricultura sostenible para
+                                        garantizar un futuro saludable para todos.
                                     </p>
                                 </div>
                             </div>
@@ -204,11 +196,11 @@
                             <div class="swiper-slide">
                                 <div class="services-style-one">
                                     <div class="thumb">
-                                        <img src="assets/img/thumb/3.png" alt="Image Not Found">
+                                        <img src="<?php echo $link_general; ?>lib/agrul/assets/img/thumb/2.png" alt="Image Not Found">
                                     </div>
-                                    <h5><a href="#">Organic Products</a></h5>
+                                    <h5><a href="#">Productos Agrícolas Sostenibles</a></h5>
                                     <p>
-                                        Continue indulged speaking technical out horrible domestic position. Seeing rather you.
+                                       Nos enorgullece poder ofrecer opciones saludables y responsables para ti y tu familia.
                                     </p>
                                 </div>
                             </div>
@@ -217,11 +209,22 @@
                             <div class="swiper-slide">
                                 <div class="services-style-one">
                                     <div class="thumb">
-                                        <img src="assets/img/thumb/4.png" alt="Image Not Found">
+                                        <img src="<?php echo $link_general; ?>lib/agrul/assets/img/thumb/3.png" alt="Image Not Found">
                                     </div>
-                                    <h5><a href="#">Dairy Production</a></h5>
+                                    <h5><a href="#">Certificación Orgánica</a></h5>
+                                    <p>En Karamagua nos enfocamos en la certificación de prácticas agrícolas sostenibles y orgánicas.</p>
+                                </div>
+                            </div>
+                            <!-- End Single Item -->
+                            <!-- Single Item -->
+                            <div class="swiper-slide">
+                                <div class="services-style-one">
+                                    <div class="thumb">
+                                        <img src="<?php echo $link_general; ?>lib/agrul/assets/img/thumb/4.png" alt="Image Not Found">
+                                    </div>
+                                    <h5><a href="#">Cuidado de la Tierra</a></h5>
                                     <p>
-                                        Continue indulged speaking technical out horrible domestic position. Seeing rather you.
+                                        Karamagua certifica prácticas sostenibles en tierras verdes y azules.
                                     </p>
                                 </div>
                             </div>
@@ -230,11 +233,13 @@
                             <div class="swiper-slide">
                                 <div class="services-style-one">
                                     <div class="thumb">
-                                        <img src="assets/img/thumb/6.png" alt="Image Not Found">
+                                        <img src="<?php echo $link_general; ?>lib/agrul/assets/img/thumb/6.png" alt="Image Not Found">
                                     </div>
-                                    <h5><a href="#">Sweet Exotic Fruits</a></h5>
+                                    <h5><a href="#">Frutas Exóticas Dulces</a></h5>
                                     <p>
-                                        Continue indulged speaking technical out horrible domestic position. Seeing rather you.
+                                        En Karamagua promovemos el cuidado de la tierra y trabajamos con productores para garantizar
+                                        que los cultivos sean sostenibles y respetuosos con el medio ambiente,
+                                        lo que nos permite ofrecer deliciosas frutas exóticas dulces con certificación orgánica.
                                     </p>
                                 </div>
                             </div>
@@ -248,92 +253,157 @@
     </div>
     <!-- End Services -->
 
-    <!-- Start Testimonials
+
+    <!-- Start Gallery
     ============================================= -->
-    <div class="testimonials-area default-padding bg-gray" style="background-image: url(assets/img/shape/23.png);">
+    <div class="gallery-style-one-area default-padding-top">
         <div class="container">
-            <div class="row align-center">
-                <div class="col-lg-5">
-                    <div class="testimonial-info text-center">
-                        <h4>Testimonial</h4>
-                        <div class="thumb">
-                            <img src="assets/img/800x800.png" alt="Image Not Found">
-                            <img src="assets/img/800x800.png" alt="Image Not Found">
-                            <img src="assets/img/800x800.png" alt="Image Not Found">
-                            <img src="assets/img/800x800.png" alt="Image Not Found">
-                        </div>
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-center">
+                        <h5 class="sub-title">Nuestra Galería</h5>
+                        <h2 class="title">Tierras</h2>
+                        <div class="devider"></div>
                     </div>
                 </div>
-                <div class="col-lg-6 offset-lg-1">
-                    <div class="testimonial-carousel testimonial-style-one swiper">
+            </div>
+        </div>
+        <div class="container container-stage">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="carousel-stage-right carousel-style-one swiper">
                         <!-- Additional required wrapper -->
                         <div class="swiper-wrapper">
-                            <!-- Single item -->
+                            <!-- Single Item -->
                             <div class="swiper-slide">
-                                <div class="testimonial-style-two">
+                                <div class="gallery-style-one">
+                                    <img src="inicio/dom/img/trees-g1610847e2_1280.jpg" alt="Thumb">
+                                    <div class="overlay">
+                                        <span>Fruta</span>
+                                        <h4><a href="#">Comida Saludable</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End Single Item -->
+                            <!-- Single Item -->
+                            <div class="swiper-slide">
+                                <div class="gallery-style-one">
+                                    <img src="inicio/dom/img/tree-gbcee13c57_1280.jpg" alt="Thumb">
+                                    <div class="overlay">
+                                        <span>Orgánico</span>
+                                        <h4><a href="#">Leche de Vaca</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End Single Item -->
+                            <!-- Single Item -->
+                            <div class="swiper-slide">
+                                <div class="gallery-style-one">
+                                    <img src="inicio/dom/img/river-gc2136a945_1280.jpg" alt="Thumb">
+                                    <div class="overlay">
+                                        <span>Verduras</span>
+                                        <h4><a href="#">Verduras orgánicas</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End Single Item -->
+                            <!-- Single Item -->
+                            <div class="swiper-slide">
+                                <div class="gallery-style-one">
+                                    <img src="inicio/dom/img/nature-gaabdcf799_1280-min.jpg" alt="Thumb">
+                                    <div class="overlay">
+                                        <span>Cereales</span>
+                                        <h4><a href="#">Mandarinas frescas</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End Single Item -->
 
-                                    <div class="item">
-                                        <div class="content">
-                                            <p>
-                                                “Targetingconsultation discover apartments. ndulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now always remembering to the point.”
-                                            </p>
-                                        </div>
-                                        <div class="provider">
-                                            <div class="info">
-                                                <h4>Matthew J. Wyman</h4>
-                                                <span>Senior Consultant</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- End Single item -->
-                            <!-- Single item -->
+                            <!-- Single Item -->
                             <div class="swiper-slide">
-                                <div class="testimonial-style-two">
-                                    <div class="item">
-                                        <div class="content">
-                                            <p>
-                                                “Consultation discover apartments. ndulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now always remembering to the point.”
-                                            </p>
-                                        </div>
-                                        <div class="provider">
-                                            <div class="info">
-                                                <h4>Anthom Bu Spar</h4>
-                                                <span>Marketing Manager</span>
-                                            </div>
-                                        </div>
+                                <div class="gallery-style-one">
+                                    <img src="inicio/dom/img/lake-g90b55e3bd_1280.jpg" alt="Thumb">
+                                    <div class="overlay">
+                                        <span>Cosecha</span>
+                                        <h4><a href="#">Pepinos crujientes</a></h4>
                                     </div>
                                 </div>
                             </div>
-                            <!-- End Single item -->
-                            <!-- Single item -->
-                            <div class="swiper-slide">
-                                <div class="testimonial-style-two">
-                                    <div class="item">
-                                        <div class="content">
-                                            <p>
-                                                “Business discover apartments. ndulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now always remembering to the point.”
-                                            </p>
-                                        </div>
-                                        <div class="provider">
-                                            <div class="info">
-                                                <h4>Metho k. Partho</h4>
-                                                <span>Senior Developer</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- End Single item -->
+                            <!-- End Single Item -->
                         </div>
+
+                        <!-- Pagination -->
+                        <div class="swiper-pagination"></div>
 
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- End Testimonials -->
+    <!-- End Gallery -->
+
+    <!-- Start Fun Factor Area
+    ============================================= -->
+    <div class="fun-facts-area default-padding">
+        <div class="shape-left">
+            <img src="<?php echo $link_general; ?>lib/agrul/assets/img/shape/27.png" alt="Image Not Found">
+        </div>
+        <div class="container">
+            <div class="item-inner">
+                <div class="shape-right">
+                    <img src="<?php echo $link_general; ?>lib/agrul/assets/img/shape/26.png" alt="Image Not Found">
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 fun-fact-style-one">
+                        <div class="heading">
+                            <div class="sub-title">Logros</div>
+                            <h2 class="title">Generando valor <br> desde 1990</h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-8 fun-fact-style-one text-end">
+                        <div class="row">
+                            <!-- Single item -->
+                            <div class="col-lg-4 col-md-4 item">
+                                <div class="fun-fact">
+                                    <div class="counter">
+                                        <div class="timer" data-to="250" data-speed="2000">250</div>
+                                        <div class="operator">M</div>
+                                    </div>
+                                    <span class="medium">Cultivo Sostenible de Tierras</span>
+                                </div>
+                            </div>
+                            <!-- End Single item -->
+
+                            <!-- Single item -->
+                            <div class="col-lg-4 col-md-4 item">
+                                <div class="fun-fact">
+                                    <div class="counter">
+                                        <div class="timer" data-to="98" data-speed="2000">98</div>
+                                        <div class="operator">%</div>
+                                    </div>
+                                    <span class="medium">Clientes satisfechos</span>
+                                </div>
+                            </div>
+                            <!-- End Single item -->
+
+                            <!-- Single item -->
+                            <div class="col-lg-4 col-md-4 item">
+                                <div class="fun-fact">
+                                    <div class="counter">
+                                        <div class="timer" data-to="688" data-speed="2000">688</div>
+                                        <div class="operator">K</div>
+                                    </div>
+                                    <span class="medium">Venta de nuestros productos</span>
+                                </div>
+                            </div>
+                            <!-- End Single item -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Fun Factor Area -->
 
     <?php require_once 'nav/footer.php'; ?>
     <?php require_once 'config/script.php'; ?>
