@@ -29,7 +29,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
-                    <h1>Contacto Karamagua Pachamama</h1>
+                    <h1>Contacto</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
                             <li><a href="<?php echo $link_general; ?>"><i class="fas fa-home"></i> Inicio</a></li>
@@ -121,7 +121,7 @@
                                     <i class="fas fa-phone-alt"></i>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title">Hotline</h5>
+                                    <h5 class="title">Celular</h5>
                                     <a href="">+4733378901</a>
                                 </div>
                             </li>
@@ -130,7 +130,7 @@
                                     <i class="fas fa-map-marker-alt"></i>
                                 </div>
                                 <div class="info">
-                                    <h5 class="title">Our Location</h5>
+                                    <h5 class="title">Nuestra ubicacion</h5>
                                     <p>
                                         55 Main Street, The Grand Avenue 2nd Block, <br> New York City
                                     </p>
@@ -141,8 +141,8 @@
                                     <i class="fas fa-envelope-open-text"></i>
                                 </div>
                                 <div class="info">
-                                    <h5 class="title">Official Email</h5>
-                                    <a href="mailto:info@agrul.com.com">info@agrul.com</a>
+                                    <h5 class="title">Nuestro correo oficial</h5>
+                                    <a href="mailto:info@karamagua.com">info@karamagua.com</a>
                                 </div>
                             </li>
                         </ul>

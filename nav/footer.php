@@ -1,4 +1,6 @@
 
+    <a class="btn-red-social btn-telegram" href=""><i class="fa-brands fa-telegram"></i></a>
+    <a class="btn-red-social btn-whatsapp" href=""><i class="fa-brands fa-whatsapp"></i></a>
 
     <!-- Start Footer
     ============================================= -->
@@ -10,7 +12,7 @@
                     <!-- Single Itme -->
                     <div class="col-lg-4 col-md-6 item">
                         <div class="footer-item about">
-                            <img class="logo" src="<?php echo $logo; ?>" alt="Logo">
+                            <img class="logo" src="<?php echo $logotipo_letras_abajo; ?>" alt="Logo">
                             <p>En nuestra empresa, creemos en el poder de la agricultura sostenible para transformar el mundo.
                                 Trabajamos con agricultores y productores de alimentos para implementar prácticas agrícolas ecológicas que sean económicamente viables y respetuosas con el medio ambiente.</p>
                         </div>
@@ -41,7 +43,7 @@
                                         <i class="fas fa-home"></i>
                                     </div>
                                     <div class="content">
-                                        <strong>Address:</strong>
+                                        <strong>Direccion:</strong>
                                         5919 Trussville Crossings Pkwy, Birmingham
                                     </div>
                                 </li>
@@ -50,7 +52,7 @@
                                         <i class="fas fa-envelope"></i>
                                     </div>
                                     <div class="content">
-                                        <strong>Email:</strong>
+                                        <strong>Correo:</strong>
                                         <a href="mailto:info@karamagua.com">info@karamagua.com</a>
                                     </div>
                                 </li>
@@ -59,7 +61,7 @@
                                         <i class="fas fa-phone"></i>
                                     </div>
                                     <div class="content">
-                                        <strong>Phone:</strong>
+                                        <strong>Celular:</strong>
                                         <a href="tel:2151234567">+123 34598768</a>
                                     </div>
                                 </li>

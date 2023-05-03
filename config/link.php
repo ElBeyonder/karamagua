@@ -17,9 +17,11 @@
     <link href="<?php echo $link_general; ?>lib/agrul/assets/css/unit-test.css" rel="stylesheet">
     <link href="<?php echo $link_general; ?>lib/agrul/style.css" rel="stylesheet">
     <!-- ========== End Stylesheet ========== -->
-
     <!-- font awesome -->
     <link rel="stylesheet" href="<?php echo $link_general; ?>lib/font-awesome-640/css/all.css" >
+
+    <!-- Link general -->
+    <link rel="stylesheet" href="<?php echo $link_general; ?>config/dom/general.css" >
 
 
 
