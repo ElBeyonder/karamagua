@@ -12,7 +12,7 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-    <title>Contacto | <?php echo $titulo; ?></title>
+    <title>Nosotros | <?php echo $titulo; ?></title>
 
     <?php require_once '../config/link.php'; ?>
 
@@ -52,43 +52,38 @@
 
         <div class="container">
             <div class="row align-center">
-                <div class="col-xl-5 col-lg-6 about-style-one pr-50 pr-md-15 pr-xs-15">
-                    <div class="thumb">
-                        <img src="<?php echo $link_general; ?>inicio/dom/img/mountains-g15678e16a_1280-min.jpg" alt="Image Not Found">
-                        <div class="sub-item">
-                            <img src="<?php echo $link_general; ?>lib/agrul/assets/img/1.jpg" alt="Image Not Found">
+                <div class="col-md-12 about-style-one mb-5">
+                    <div class="row align-center justify-content-center">
+                        <div class="col-xl-6 col-lg-12 justify-content-center">
+                            <h2 class="heading text-center">Quienes somos</h2>
+                            <p>
+                                Karamagua Pachamama es un grupo empresarial que se dedica al desarrollo agroforestal integrado y a la venta y adquisición de bonos de carbono y certificados de reducción de emisiones de GEI. Su labor se enfoca en implementar iniciativas para la mitigación de la huella de carbono en el mundo y fomentar el desarrollo socioeconómico equitativo en las zonas rurales, valorizando el trabajo de los propietarios de la tierra. Su CEO ha expresado la importancia de ser productivos y aprovechar el sistema integrado monetario del CO2 para lograr una inclusión financiera tanto de empresas como de personas naturales. Para respaldar financieramente sus proyectos, utilizan información verificada de la cuantificación de los datos de procesamiento de los gases de efecto invernadero. El objetivo principal de Karamagua Pachamama es promover la armonía entre el ser humano y la naturaleza, y reducir la contaminación generada por la humanidad en el planeta.
+                            </p>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-7 col-lg-6 about-style-one">
+                <div class="col-md-6 col-xl-6 col-lg-6 about-style-one">
                     <div class="row align-center">
-                        <div class="col-xl-7 col-lg-12">
-                            <h2 class="heading">Agricultura Para <br> El Desarrollo Futuro</h2>
+                        <div class="col-xl-12 col-lg-12">
+                            <h2 class="heading">Mision</h2>
                             <p>
-                                En Karamagua Pachamama Grupo Empresarial SAS, nos enfocamos en promover y defender la agricultura ecológica y sostenible
-                                para asegurar el equilibrio armónico entre el ser humano, la naturaleza y las otras especies.
+                                Nuestro objetivo es acercar a los propietarios, tenedores y poseedores de la tierra a un planeta más ecológico,
+                                mediante un acuerdo moral con el ecosistema y la biodiversidad del planeta. Buscamos crear un planeta verde donde hombres,
+                                especies diversas y la naturaleza convivan en armonía, cuidándonos mutuamente y asegurando un aire limpio y saludable para todos.
                             </p>
-                            <ul class="check-solid-list mt-20">
-                                <li>Los alimentos orgánicos contienen más vitaminas y nutrientes</li>
-                                <li>Consumir orgánico porque la demanda cumple con la oferta</li>
-                                <li>Los alimentos orgánicos nunca son irradiados</li>
-                            </ul>
                         </div>
-                        <div class="col-xl-5 col-lg-12 pl-50 pl-md-15 pl-xs-15">
-                            <div class="top-product-item">
-                                <img src="<?php echo $link_general; ?>lib/agrul/assets/img/icon/1.svg" alt="Icono">
-                                <h5><a href="#">Agricultura Natural</a></h5>
-                                <p>
-                                    Implementamos técnicas y métodos de cultivo que respetan el medio ambiente y promueven la biodiversidad.
-                                </p>
-                            </div>
-                            <div class="top-product-item">
-                                <img src="<?php echo $link_general; ?>lib/agrul/assets/img/icon/2.svg" alt="Icono">
-                                <h5><a href="#">Productos de Calidad</a></h5>
-                                <p>
-                                    Ofrecemos productos de alta calidad, cultivados con los más altos estándares de producción y cuidado del medio ambiente.
-                                </p>
-                            </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-xl-6 col-lg-6 about-style-one">
+                    <div class="row align-center">
+                        <div class="col-xl-12 col-lg-12">
+                            <h2 class="heading">Vision</h2>
+                            <p>
+                                Nos consolidamos como la empresa más dinámica, eficaz y eficiente en promover y defender el ecosistema y
+                                el equilibrio armónico entre el ser humano y la naturaleza, incluyendo todas las especies.
+                                Aspiramos a la coexistencia armoniosa entre la fauna, la flora, los minerales y los seres humanos,
+                                entendiendo que cada uno de ellos es una pieza fundamental para el equilibrio de nuestro hogar: la Tierra.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -99,16 +94,16 @@
 
     <!-- Start Farmer
     ============================================= -->
-    <div class="farmer-area default-padding bottom-less bg-gray" style="background-image: url(assets/img/shape/36.png);">
+    <div class="farmer-area default-padding bottom-less bg-gray" style="background-image: url(<?php echo $link_general; ?>lib/agrul/assets/img/shape/36.png);">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">Our Farmers</h5>
-                        <h2 class="title">Meet Our Farm Experts</h2>
+                        <h5 class="sub-title">Nuestros profesionales</h5>
+                        <h2 class="title">Conoce a nuestros expertos en agroforestería</h2>
                         <div class="devider"></div>
                         <p>
-                            Everything melancholy uncommonly but solicitude inhabiting <br> projection off. Connection stimulated estimating.
+                            Nuestros miembros de Karamagua son líderes comprometidos con la sostenibilidad ambiental y el desarrollo socioeconómico equitativo.
                         </p>
                     </div>
                 </div>
@@ -123,7 +118,7 @@
                         <div class="col-lg-4 farmer-stye-one">
                             <div class="farmer-style-one-item">
                                 <div class="thumb">
-                                    <img src="assets/img/800x800.png" alt="Image Not Found">
+                                    <img src="<?php echo $link_general; ?>lib/agrul/assets/img/800x800.png" alt="Image Not Found">
                                     <div class="social">
                                         <i class="fas fa-share-alt"></i>
                                         <ul>
@@ -156,7 +151,7 @@
                         <div class="col-lg-4 farmer-stye-one">
                             <div class="farmer-style-one-item">
                                 <div class="thumb">
-                                    <img src="assets/img/800x800.png" alt="Image Not Found">
+                                    <img src="<?php echo $link_general; ?>lib/agrul/assets/img/800x800.png" alt="Image Not Found">
                                     <div class="social">
                                         <i class="fas fa-share-alt"></i>
                                         <ul>
@@ -189,7 +184,7 @@
                         <div class="col-lg-4 farmer-stye-one">
                             <div class="farmer-style-one-item">
                                 <div class="thumb">
-                                    <img src="assets/img/800x800.png" alt="Image Not Found">
+                                    <img src="<?php echo $link_general; ?>lib/agrul/assets/img/800x800.png" alt="Image Not Found">
                                     <div class="social">
                                         <i class="fas fa-share-alt"></i>
                                         <ul>
@@ -226,82 +221,6 @@
     </div>
     <!-- End Farmer -->
 
-    <!-- Start Food Order Process
-    ============================================= -->
-    <div class="process-area default-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-5 process-style-one">
-                    <h5 class="sub-title">Order process</h5>
-                    <h2 class="title">Order Now and <br> get pure Organic Food</h2>
-                    <div class="call-to-action mt-45">
-                        <div class="icon">
-                            <i class="fas fa-user-headset"></i>
-                        </div>
-                        <div class="info">
-                            <span>Get quick support</span>
-                            <h4><a href="tel:2151234567">+123 34598768</a></h4>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-7 process-style-one">
-                    <div class="row">
-                        <div class="shape">
-                            <img src="assets/img/shape/35.webp" alt="Image Not Found">
-                        </div>
-
-                        <div class="col-lg-4">
-                            <div class="nav nav-tabs order-process-tab-navs" id="nav-tab" role="tablist">
-                                <button class="nav-link" id="nav-id-1" data-bs-toggle="tab" data-bs-target="#tab1" type="button" role="tab" aria-controls="tab1" aria-selected="true">
-                                    <span>Process - 01 </span>
-                                    <strong>Home Delivary</strong>
-                                </button>
-                                <button class="nav-link active" id="nav-id-2" data-bs-toggle="tab" data-bs-target="#tab2" type="button" role="tab" aria-controls="tab2" aria-selected="false">
-                                    <span>Process - 02 </span>
-                                    <strong>Live Purchase</strong>
-                                </button>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-8">
-                            <div class="tab-content order-process-tab-content" id="nav-tabContent">
-                                <!-- Single Item -->
-                                <div class="tab-pane fade" id="tab1" role="tabpanel" aria-labelledby="nav-id-1">
-                                    <h3 class="title">Get products from home</h3>
-                                    <p>
-                                        Give lady of they such they sure it. Me contained explained  education. Vulgar as hearts by garret. Perceived is determine departure explained no forfeited he something an join.
-                                    </p>
-                                    <ul>
-                                        <li>Product will be delivered to your door</li>
-                                        <li>The product will be checked before being sent to you.</li>
-                                    </ul>
-                                </div>
-                                <!-- End Single Item -->
-
-                                <!-- Single Item -->
-                                <div class="tab-pane fade show active" id="tab2" role="tabpanel" aria-labelledby="nav-id-2">
-                                    <div class="row align-center">
-                                        <h3 class="title">Collect food from the farm</h3>
-                                        <p>
-                                            Take join of they such they sure it. Me contained explained  education. Vulgar as hearts by garret. Perceived is determine departure explained no forfeited he something an come.
-                                        </p>
-                                        <ul>
-                                            <li>You must come for purchasing the product</li>
-                                            <li>The product quality depends on your choice</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <!-- End Single Item -->
-
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Food Order Process -->
 
     <!-- Start Why Choose Us
    ============================================= -->
@@ -310,9 +229,9 @@
             <div class="row align-center">
                 <div class="col-lg-6 choose-us-style-one">
                     <div class="thumb">
-                        <img src="assets/img/800x800.png" alt="Image Not Found">
+                        <img src="<?php echo $link_general; ?>nosotros/dom/img/products-mujer-afroamericana.jpg" alt="Image Not Found">
                         <div class="shape">
-                            <img class="wow fadeInDown" src="assets/img/shape/22.png" alt="Image not found">
+                            <img class="wow fadeInDown" src="<?php echo $link_general; ?>lib/agrul/assets/img/shape/22.png" alt="Image not found">
                         </div>
                         <div class="product-produce">
                             <div class="icon">
@@ -323,25 +242,27 @@
                                     <div class="timer" data-to="258" data-speed="2000">258</div>
                                     <div class="operator">K</div>
                                 </div>
-                                <span class="medium">Agriculture, Organic Products</span>
+                                <span class="medium">Agricultura, Productos Orgánicos</span>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6 choose-us-style-one">
-                    <h5 class="sub-title">Get to know us</h5>
-                    <h2 class="title">Agriculture matters to <br> the future of development</h2>
+                    <h5 class="sub-title">CONÓCENOS</h5>
+                    <h2 class="title">La agricultura es importante para <br> el futuro del desarrollo</h2>
                     <div class="accordion accordion-regular mt-35" id="faqAccordion">
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingOne">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    What do you add to the soil before you plant a crop?
+                                    ¿Qué agregas al suelo antes de plantar un cultivo?
                                 </button>
                             </h2>
                             <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                 <div class="accordion-body">
                                     <p>
-                                        Bennings appetite disposed me an at subjects an. To no indulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week.
+                                        Depende del tipo de cultivo y del tipo de suelo, pero generalmente se agregan fertilizantes y nutrientes para mejorar la calidad del suelo
+                                        y proporcionar a las plantas los nutrientes necesarios para crecer saludablemente. También se pueden agregar enmiendas orgánicas como compost,
+                                        estiércol, ceniza de madera, entre otros, para mejorar la estructura del suelo y aumentar la retención de agua y nutrientes.
                                     </p>
                                 </div>
                             </div>
@@ -349,13 +270,17 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingTwo">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    Do you use herbicides?
+                                    ¿Usas herbicidas?
                                 </button>
                             </h2>
                             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                 <div class="accordion-body">
                                     <p>
-                                        Cennings appetite disposed me an at subjects an. To no indulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week.
+                                        Si estás buscando alternativas más ecológicas y sostenibles para el manejo de malezas en tus cultivos,
+                                        hay algunas opciones a considerar. Algunas alternativas a los herbicidas químicos incluyen el control manual de malezas,
+                                        el uso de mulch para suprimir su crecimiento, la rotación de cultivos y la intercalación de cultivos y la utilización de cultivos
+                                        de cobertura que son sembrados entre las temporadas de cultivo para proteger y mejorar la salud del suelo.
+                                        También puedes investigar y considerar el uso de herbicidas orgánicos y biodegradables que se derivan de fuentes naturales.
                                     </p>
                                 </div>
                             </div>
@@ -363,13 +288,15 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingThree">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    Where does the water come from that you use on your crops?
+                                    ¿De dónde proviene el agua que usan en sus cultivos?
                                 </button>
                             </h2>
                             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                 <div class="accordion-body">
                                     <p>
-                                        Tennings appetite disposed me an at subjects an. To no indulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week.
+                                        Es importante asegurarse de utilizar agua de fuentes sostenibles,
+                                        como ríos o pozos que no estén sobreexplotados. También se puede recolectar agua de lluvia y utilizar sistemas de riego eficientes para minimizar
+                                        el desperdicio de agua.
                                     </p>
                                 </div>
                             </div>
