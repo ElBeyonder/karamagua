@@ -2,7 +2,7 @@
 
     <!-- Start Footer
     ============================================= -->
-    <footer class="bg-dark text-light" style="background-image: url(<?php echo $link_general; ?>'lib/agrul/assets/img/shape/brush-down.png');">
+    <footer class="bg-dark text-light" style="background-image: url(<?php echo $link_general; ?>lib/agrul/assets/img/shape/brush-down.png);">
         <div class="container">
             <div class="f-items default-padding">
                 <div class="row">
@@ -73,7 +73,7 @@
             <div class="footer-bottom">
                 <div class="row">
                     <div class="col-lg-6">
-                        <p>&copy; Copyright 2022. All Rights Reserved by <a href="#">Karamagua Pachamama</a></p>
+                        <p>&copy; Copyright 2023. All Rights Reserved by <a href="#">Karamagua Pachamama</a></p>
                     </div>
                     <div class="col-lg-6 text-end">
                         <ul>
@@ -87,10 +87,10 @@
             <!-- End Footer Bottom -->
         </div>
         <div class="shape-right-bottom">
-            <img src="<?php echo $link_general; ?>'lib/agrul/assets/img/shape/10.png" alt="Image Not Found">
+            <img src="<?php echo $link_general; ?>lib/agrul/assets/img/shape/10.png" alt="Image Not Found">
         </div>
         <div class="shape-left-bottom">
-            <img src="<?php echo $link_general; ?>'lib/agrul/assets/img/shape/11.png" alt="Image Not Found">
+            <img src="<?php echo $link_general; ?>lib/agrul/assets/img/shape/11.png" alt="Image Not Found">
         </div>
     </footer>
     <!-- End Footer -->

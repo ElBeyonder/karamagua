@@ -110,7 +110,8 @@
                         <div class="col-xl-7 col-lg-12">
                             <h2 class="heading">Agricultura Para <br> El Desarrollo Futuro</h2>
                             <p>
-                                Existen muchas variaciones de pasajes de ipsum disponibles, pero la mayoría han sufrido alguna alteración por la inserción de humor o palabras al azar que no tienen sentido. En Karamagua Pachamama Grupo Empresarial SAS, nos enfocamos en promover y defender la agricultura ecológica y sostenible para asegurar el equilibrio armónico entre el ser humano, la naturaleza y las otras especies.
+                                En Karamagua Pachamama Grupo Empresarial SAS, nos enfocamos en promover y defender la agricultura ecológica y sostenible
+                                para asegurar el equilibrio armónico entre el ser humano, la naturaleza y las otras especies.
                             </p>
                             <ul class="check-solid-list mt-20">
                                 <li>Los alimentos orgánicos contienen más vitaminas y nutrientes</li>
