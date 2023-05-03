@@ -367,8 +367,8 @@
                             <div class="col-lg-4 col-md-4 item">
                                 <div class="fun-fact">
                                     <div class="counter">
-                                        <div class="timer" data-to="250" data-speed="2000">250</div>
-                                        <div class="operator">M</div>
+                                        <div class="timer" data-to="1000" data-speed="2000">1000</div>
+                                        <div class="operator">H</div>
                                     </div>
                                     <span class="medium">Cultivo Sostenible de Tierras</span>
                                 </div>
@@ -379,7 +379,7 @@
                             <div class="col-lg-4 col-md-4 item">
                                 <div class="fun-fact">
                                     <div class="counter">
-                                        <div class="timer" data-to="98" data-speed="2000">98</div>
+                                        <div class="timer" data-to="99" data-speed="2000">99</div>
                                         <div class="operator">%</div>
                                     </div>
                                     <span class="medium">Clientes satisfechos</span>

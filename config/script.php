@@ -20,3 +20,6 @@
     <script src="<?php echo $link_general; ?>lib/agrul/assets/js/TweenMax.min.js"></script>
     <script src="<?php echo $link_general; ?>lib/agrul/assets/js/validnavs.js"></script>
     <script src="<?php echo $link_general; ?>lib/agrul/assets/js/main.js"></script>
+
+    <!-- select2 -->
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
