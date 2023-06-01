@@ -13,8 +13,8 @@
                     <div class="col-lg-4 col-md-6 item">
                         <div class="footer-item about">
                             <img class="logo" src="<?php echo $logotipo_letras_abajo; ?>" alt="Logo">
-                            <p>En nuestra empresa, creemos en el poder de la agricultura sostenible para transformar el mundo.
-                                Trabajamos con agricultores y productores de alimentos para implementar prácticas agrícolas ecológicas que sean económicamente viables y respetuosas con el medio ambiente.</p>
+                            <p>En nuestra empresa, creemos en el poder de los bonos de carbono para transformar el mundo.
+                                Trabajamos con agricultores y productores de alimentos para implementar prácticas agrícolas ecológicas certificadas con bonos de carbono que sean económicamente viables y respetuosas con el medio ambiente.</p>
                         </div>
                     </div>
                     <!-- End Single Itme -->
@@ -44,7 +44,7 @@
                                     </div>
                                     <div class="content">
                                         <strong>Direccion:</strong>
-                                        5919 Trussville Crossings Pkwy, Birmingham
+                                        Cali, Calle 11 No .1-07 oficina 305
                                     </div>
                                 </li>
                                 <li>
@@ -62,7 +62,7 @@
                                     </div>
                                     <div class="content">
                                         <strong>Celular:</strong>
-                                        <a href="tel:2151234567">+123 34598768</a>
+                                        <a href="tel:+573173552000">+57 3173552000</a>
                                     </div>
                                 </li>
                             </ul>

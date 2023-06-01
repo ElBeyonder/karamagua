@@ -5,6 +5,13 @@
       <webServer id="63cc7eec-7379-4a6d-9542-19bdc8a53bb3" name="Local" url="http://127.0.0.1/karamagua/">
         <fileTransfer mountedRoot="C:\xampp\htdocs\karamagua" accessType="MOUNT" port="0" />
       </webServer>
+      <webServer id="a51f631c-9ca8-40dd-b185-1bb182bf2180" name="Hosting" url="https://www.karamagua.com/">
+        <fileTransfer host="ftp.workplay.com.co" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </project>
